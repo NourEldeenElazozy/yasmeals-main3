@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363670997534",
+    "project_id": "yasmeals-8810f",
+    "storage_bucket": "yasmeals-8810f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363670997534:android:c2546dedd8fa3a5bfefc0f",
+        "android_client_info": {
+          "package_name": "com.Yasmeals.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363670997534-qu7mc1cbdn24vk6qqg6ldsb6q9j1so1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWP52eZOX4sGuxGk-VhOX7cZgQMxE1wBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363670997534-qu7mc1cbdn24vk6qqg6ldsb6q9j1so1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
